@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tx2</string>
+
+    <string name="inpText">Text</string>
+    <string name="b1">button</string>
+    <string name="res">result</string>
+</resources>
